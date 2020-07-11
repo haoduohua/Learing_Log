@@ -2,6 +2,7 @@
 Make your own Learning Log, and list the topics you're learning about.
 
 # Requirements
+- python==3.6
 - Django==1.8.4
 - django-bootstrap3==6.2.2
 
