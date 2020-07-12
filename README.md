@@ -13,4 +13,5 @@ Make your own Learning Log, and list the topics you're learning about.
 - 在仓目录下执行 `python manage.py runserver`
 
 # Note
-Code comes from "《Python编程：从入门到实践》 作者：Eric Matthes"
+- Code comes from "《Python编程：从入门到实践》 作者：Eric Matthes"
+- 暂不支持Heroku部署
